@@ -20,3 +20,5 @@ print(df)
 # with open("output.txt", "w") as out:
 #     for tag in tag_set:
 #         print(tag, file=out)
+
+['id', 'contestId', 'creationTimeSeconds', 'relativeTimeSeconds', 'programmingLanguage', 'verdict', 'testset', 'passedTestCount', 'timeConsumedMillis', 'memoryConsumedBytes', 'problem.contestId', 'problem.index', 'problem.name', 'problem.type', 'problem.tags', 'author.contestId', 'author.members', 'author.participantType', 'author.ghost', 'author.startTimeSeconds', 'problem.rating', 'problem.points', 'author.room']
